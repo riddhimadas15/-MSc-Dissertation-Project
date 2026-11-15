@@ -1,0 +1,32 @@
+#gene_attribute_edges.txt
+#source	 source_desc	source_id	target	target_desc	target_id	weight
+#A1BG	  na	          1	        ARID3A	     na	          1820	       1.000000
+
+** source: The gene that is being regulated (target gene).
+** source_desc: Likely additional information about the source gene (but mostly "na" in this dataset).
+** source_id: An identifier for the source gene.
+** target: The transcription factor (TF) that regulates the source gene.
+** target_desc: Possibly additional information about the transcription factor.
+** target_id: An identifier for the transcription factor.
+** weight: A score indicating the strength of the interaction (1.000000 suggests a strong or confirmed interaction).
+** Here, The transcription factor ARID3A (target) regulates A1BG (sources).
+** The weight column suggests that all these interactions have the same strength (1.0), meaning they are likely direct regulatory interactions.
+
+#attribute_list_entries.txt
+#GeneSym	NA	GeneID
+#ARID3A	        na	1820
+
+#Column Breakdown
+GeneSym: The symbol (short name) for each transcription factor.
+NA: Likely an unused or placeholder column.
+GeneID: The unique identifier for each gene.
+
+#What This Means
+This dataset represents a list of known transcription factors.
+These TFs might be used to identify whether a different set of genes (like your DEGs) are transcription factors.
+You can use this dataset to check which differentially expressed genes (DEGs) from your analysis are also TFs.
+
+#How It Connects to Your Previous Data
+In your gene-TF interaction network, you are trying to identify which DEGs are TFs and which genes they regulate.
+You can compare this list with your DEG gene list to extract TFs from DEGs.
+

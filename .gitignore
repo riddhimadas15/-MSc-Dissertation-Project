@@ -1,0 +1,17 @@
+# R
+.RData
+.Rhistory
+.Rproj.user/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# raw / very large data - download from GEO or Harmonizome (see README)
+*.CEL
+*.CEL.gz
+data_files/
+gene_attribute_edges.txt
+# generated
+tf_ra_network.html
+lib/
+.DS_Store

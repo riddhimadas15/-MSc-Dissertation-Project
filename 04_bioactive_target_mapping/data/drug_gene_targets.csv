@@ -1,0 +1,605 @@
+DrugName,GeneTarget
+Withaferin A,IL6
+Withaferin A,IL1B
+Withaferin A,CCL2
+Withaferin A,MAPK1
+Withaferin A,CXCL8
+Withaferin A,NFE2L2
+Withaferin A,PTGS2
+Withaferin A,MAPK14
+Guggulsterone-E,IL1B
+Guggulsterone-E,MMP9
+Guggulsterone-E,PTGS2
+Guggulsterone-E,NFKB1
+Guggulsterone-E,CASP3
+Guggulsterone-E,TGFB1
+Guggulsterone-E,ALOX5
+Guggulsterone-E,NOS2
+Guggulsterone-Z,ALOX5
+Guggulsterone-Z,NOS2
+Curcumin,ALOX5
+Curcumin,IL6
+Curcumin,IL1B
+Curcumin,IL18
+Curcumin,TLR2
+Curcumin,CCL2
+Curcumin,CCL3
+Curcumin,CXCL1
+Curcumin,CXCL12
+Curcumin,MMP3
+Curcumin,MMP9
+Curcumin,CSF1
+Curcumin,PTGS2
+Curcumin,STAT3
+Curcumin,MAPK1
+Curcumin,MAPK14
+Curcumin,NFKB1
+Curcumin,AKT1
+Curcumin,CASP3
+Curcumin,CXCL8
+Curcumin,HIF1A
+Curcumin,KEAP1
+Curcumin,NFE2L2
+Curcumin,NOS2
+Curcumin,SOD1
+Curcumin,TGFB1
+Curcumin,TIMP1
+Curcumin,ALOX5AP
+Demethoxycurcumin,ALOX5
+Demethoxycurcumin,MMP3
+Demethoxycurcumin,ALOX5AP
+Demethoxycurcumin,STAT3
+Demethoxycurcumin,AKT1
+Demethoxycurcumin,NFE2L2
+Demethoxycurcumin,NOS2
+Demethoxycurcumin,MMP9
+Demethoxycurcumin,MAPK1
+Demethoxycurcumin,CASP3
+Bisdemethoxycurcumin,ALOX5
+Bisdemethoxycurcumin,MMP3
+Bisdemethoxycurcumin,ALOX5AP
+Bisdemethoxycurcumin,NFE2L2
+Bisdemethoxycurcumin,TLR2
+Bisdemethoxycurcumin,TLR4
+Bisdemethoxycurcumin,MMP9
+Bisdemethoxycurcumin,MAPK1
+Bisdemethoxycurcumin,AKT1
+Bisdemethoxycurcumin,TIMP1
+Kaempferol,ALOX5
+Kaempferol,IL6
+Kaempferol,IL1B
+Kaempferol,CCL2
+Kaempferol,CCL5
+Kaempferol,MMP1
+Kaempferol,MMP9
+Kaempferol,CSF2
+Kaempferol,PTGS2
+Kaempferol,MAPK1
+Kaempferol,MAPK14
+Kaempferol,NFKB1
+Kaempferol,AKT1
+Kaempferol,CASP3
+Kaempferol,CXCL8
+Kaempferol,HIF1A
+Kaempferol,NFE2L2
+Kaempferol,NOS2
+Kaempferol,SOD1
+Kaempferol,TGFB1
+Kaempferol,MMP3
+Boswellic acids,ALOX5
+Boswellic acids,PTGS2
+Boswellic acids,KEAP1
+Boswellic acids,NOS2
+Boswellic acids,AKT1
+Tinosporaside,MMP1
+Tinosporaside,MMP3
+Tinosporaside,MMP9
+Tinosporaside,LTA4H
+Tinosporaside,MAPK1
+Tinosporaside,MAPK14
+Tinosporaside,CASP3
+Cordifolioside A,ALOX5
+Cordifolioside A,PTGS2
+Cordifolioside A,STAT3
+Cordifolioside A,MAPK14
+Cordifolioside A,CASP3
+Quercetin,ALOX5
+Quercetin,IL6
+Quercetin,IL1B
+Quercetin,IL18
+Quercetin,IL11
+Quercetin,TLR2
+Quercetin,TLR4
+Quercetin,CCL2
+Quercetin,CCL5
+Quercetin,MMP1
+Quercetin,MMP3
+Quercetin,MMP9
+Quercetin,TNFRSF11A
+Quercetin,CSF2
+Quercetin,PTGS2
+Quercetin,ALOX5AP
+Quercetin,STAT3
+Quercetin,MAPK1
+Quercetin,MAPK14
+Quercetin,NFKB1
+Quercetin,AKT1
+Quercetin,CASP3
+Quercetin,CXCL8
+Quercetin,CXCL10
+Quercetin,HIF1A
+Quercetin,KEAP1
+Quercetin,MCP1
+Quercetin,NFE2L2
+Quercetin,NOS2
+Quercetin,SOD1
+Quercetin,TGFB1
+Quercetin,TIMP1
+Quercetin,ALOX5
+Quercetin,IL6
+Quercetin,IL1B
+Quercetin,CCL2
+Quercetin,CCL5
+Quercetin,MMP1
+Quercetin,MMP9
+Quercetin,CSF2
+Quercetin,PTGS2
+Quercetin,MAPK1
+Quercetin,MAPK14
+Quercetin,NFKB1
+Quercetin,AKT1
+Quercetin,CASP3
+Quercetin,CXCL8
+Quercetin,HIF1A
+Quercetin,NFE2L2
+Quercetin,NOS2
+Quercetin,SOD1
+Quercetin,TGFB1
+Quercetin,MMP3
+Nimbolide,ALOX5
+Nimbolide,MMP1
+Nimbolide,MMP3
+Nimbolide,MMP9
+Nimbolide,STAT3
+Nimbolide,TYK2
+Nimbolide,MAPK1
+Nimbolide,CASP3
+Nimbolide,NFKB1
+Nimbolide,HIF1A
+Azadirachtin A,ALOX5
+Azadirachtin A,MMP1
+Azadirachtin A,MMP3
+Azadirachtin A,TYK2
+Azadirachtin A,MAPK1
+Azadirachtin A,MAPK14
+Azadirachtin A,NFKB1
+Azadirachtin A,CASP3
+Azadirachtin A,IL6
+Azadirachtin A,TLR4
+Azadirachtin A,NFKB1
+Azadirachtin A,CASP3
+Azadirachtin A,ALOX5
+Azadirachtin A,MMP3
+Azadirachtin A,MMP9
+Azadirachtin A,AKT1
+Azadirachtin A,ALOX5
+Azadirachtin A,MMP3
+Azadirachtin A,MMP9
+Azadirachtin A,PTGS2
+Azadirachtin A,AKT1
+Azadirachtin A,ALOX5
+Azadirachtin A,MAPK1
+Azadirachtin A,MAPK14
+Azadirachtin A,NOS2
+Azadirachtin A,MMP1
+Azadirachtin A,MMP3
+Azadirachtin A,MMP9
+Azadirachtin A,PTGS2
+Azadirachtin A,TYK2
+Azadirachtin A,MAPK1
+Azadirachtin A,MAPK14
+Azadirachtin A,HIF1A
+Azadirachtin A,IL6
+Azadirachtin A,CASP3
+Azadirachtin A,CXCL8
+Azadirachtin A,NFE2L2
+Azadirachtin A,MMP1
+Azadirachtin A,MMP9
+Azadirachtin A,LTA4H
+Azadirachtin A,CASP3
+Azadirachtin A,MMP1
+Azadirachtin A,MMP9
+Azadirachtin A,LTA4H
+Azadirachtin A,MAPK1
+Azadirachtin A,CASP3
+rosmarinic acid,IL1B
+rosmarinic acid,IL17A
+rosmarinic acid,CASP3
+rosmarinic acid,KEAP1
+rosmarinic acid,NFE2L2
+rosmarinic acid,SOD1
+rosmarinic acid,TGFB1
+rosmarinic acid,MMP1
+rosmarinic acid,MMP3
+rosmarinic acid,MMP9
+rosmarinic acid,PTGS2
+rosmarinic acid,LTA4H
+rosmarinic acid,MAPK1
+rosmarinic acid,CD86
+rosmarinic acid,IL1B
+rosmarinic acid,IL18
+rosmarinic acid,TLR4
+rosmarinic acid,CCL2
+rosmarinic acid,CCL3
+rosmarinic acid,CCL20
+rosmarinic acid,CXCL1
+rosmarinic acid,MMP9
+rosmarinic acid,PTGS2
+rosmarinic acid,NFKB1
+rosmarinic acid,CASP3
+rosmarinic acid,CXCL8
+rosmarinic acid,HIF1A
+rosmarinic acid,NFE2L2
+rosmarinic acid,SOD1
+rosmarinic acid,MMP1
+rosmarinic acid,TYK2
+rosmarinic acid,MAPK14
+rosmarinic acid,AKT1
+rosmarinic acid,ALOX5
+rosmarinic acid,IL6
+rosmarinic acid,MMP1
+rosmarinic acid,MMP3
+rosmarinic acid,PTGS2
+rosmarinic acid,ALOX5AP
+rosmarinic acid,NOS2
+rosmarinic acid,ALOX5
+rosmarinic acid,MMP3
+rosmarinic acid,AKT1
+rosmarinic acid,IL1B
+rosmarinic acid,MMP9
+rosmarinic acid,PTGS2
+rosmarinic acid,AKT1
+rosmarinic acid,CASP3
+rosmarinic acid,ALOX5
+rosmarinic acid,STAT3
+rosmarinic acid,TYK2
+rosmarinic acid,ALOX5
+rosmarinic acid,ALOX5
+rosmarinic acid,IL1B
+rosmarinic acid,MMP9
+rosmarinic acid,PTGS2
+rosmarinic acid,MAPK1
+rosmarinic acid,AKT1
+rosmarinic acid,CASP3
+rosmarinic acid,KEAP1
+rosmarinic acid,NFE2L2
+rosmarinic acid,NOS2
+rosmarinic acid,ALOX5
+rosmarinic acid,MMP3
+rosmarinic acid,LTA4H
+rosmarinic acid,MAPK14
+rosmarinic acid,ALOX5
+rosmarinic acid,ALOX5AP
+rosmarinic acid,MAPK1
+rosmarinic acid,CASP3
+rosmarinic acid,ALOX5
+rosmarinic acid,MMP3
+rosmarinic acid,MMP9
+rosmarinic acid,PTGS2
+rosmarinic acid,AKT1
+rosmarinic acid,ALOX5
+rosmarinic acid,IL6
+rosmarinic acid,IL1B
+rosmarinic acid,CCL2
+rosmarinic acid,MMP1
+rosmarinic acid,MMP9
+rosmarinic acid,CSF2
+rosmarinic acid,PTGS2
+rosmarinic acid,STAT3
+rosmarinic acid,MAPK1
+rosmarinic acid,MAPK14
+rosmarinic acid,NFKB1
+rosmarinic acid,AKT1
+rosmarinic acid,CASP3
+rosmarinic acid,CXCL8
+rosmarinic acid,HIF1A
+rosmarinic acid,KEAP1
+rosmarinic acid,NFE2L2
+rosmarinic acid,NOS2
+rosmarinic acid,SOD1
+rosmarinic acid,TGFB1
+rosmarinic acid,MMP3
+rosmarinic acid,PTGS2
+rosmarinic acid,NOS2
+rosmarinic acid,IL6
+rosmarinic acid,IL1B
+rosmarinic acid,CXCL1
+rosmarinic acid,MMP3
+rosmarinic acid,MMP9
+rosmarinic acid,CSF2
+rosmarinic acid,MAPK1
+rosmarinic acid,CASP3
+rosmarinic acid,CXCL8
+rosmarinic acid,HIF1A
+rosmarinic acid,ALOX5
+rosmarinic acid,IL6
+rosmarinic acid,IL1B
+rosmarinic acid,MMP9
+rosmarinic acid,CSF2
+rosmarinic acid,PTGS2
+rosmarinic acid,STAT3
+rosmarinic acid,MAPK1
+rosmarinic acid,NFKB1
+rosmarinic acid,AKT1
+rosmarinic acid,HIF1A
+rosmarinic acid,TGFB1
+rosmarinic acid,NOS2
+rosmarinic acid,IL6
+rosmarinic acid,IL1B
+rosmarinic acid,TLR4
+rosmarinic acid,MMP1
+rosmarinic acid,MMP9
+rosmarinic acid,PTGS2
+rosmarinic acid,MAPK1
+rosmarinic acid,MAPK14
+rosmarinic acid,AKT1
+rosmarinic acid,CASP3
+rosmarinic acid,CXCL8
+rosmarinic acid,HIF1A
+rosmarinic acid,NFE2L2
+rosmarinic acid,NOS2
+rosmarinic acid,ALOX5
+rosmarinic acid,MMP1
+rosmarinic acid,MMP3
+rosmarinic acid,MMP9
+rosmarinic acid,STAT3
+rosmarinic acid,ALOX5
+rosmarinic acid,IL6
+rosmarinic acid,IL1B
+rosmarinic acid,CCL2
+rosmarinic acid,MMP1
+rosmarinic acid,MMP9
+rosmarinic acid,CSF2
+rosmarinic acid,PTGS2
+rosmarinic acid,STAT3
+rosmarinic acid,MAPK1
+rosmarinic acid,MAPK14
+rosmarinic acid,NFKB1
+rosmarinic acid,AKT1
+rosmarinic acid,CASP3
+rosmarinic acid,CXCL8
+rosmarinic acid,HIF1A
+rosmarinic acid,KEAP1
+rosmarinic acid,NFE2L2
+rosmarinic acid,NOS2
+rosmarinic acid,SOD1
+rosmarinic acid,TGFB1
+rosmarinic acid,MMP3
+rosmarinic acid,IL6
+rosmarinic acid,IL1B
+rosmarinic acid,TLR4
+rosmarinic acid,CCL2
+rosmarinic acid,CXCL1
+rosmarinic acid,CXCL12
+rosmarinic acid,MMP1
+rosmarinic acid,MMP3
+rosmarinic acid,MMP9
+rosmarinic acid,CSF2
+rosmarinic acid,PTGS2
+rosmarinic acid,STAT3
+rosmarinic acid,MAPK1
+rosmarinic acid,MAPK14
+rosmarinic acid,NFKB1
+rosmarinic acid,AKT1
+rosmarinic acid,CASP3
+rosmarinic acid,CXCL8
+rosmarinic acid,HIF1A
+rosmarinic acid,NFE2L2
+rosmarinic acid,ALOX5
+Solasodine,MMP9
+Solasodine,STAT3
+Solasodine,AKT1
+Solasodine,CASP3
+Solasodine,TIMP1
+Diosgenin,MMP9
+Diosgenin,PTGS2
+Diosgenin,NFKB1
+Diosgenin,AKT1
+Diosgenin,CASP3
+Diosgenin,ALOX5
+Diosgenin,MAPK14
+Diosgenin,MMP3
+Diosgenin,STAT3
+Diosgenin,MAPK14
+Diosgenin,CASP3
+Diosgenin,MMP9
+Diosgenin,STAT3
+Diosgenin,AKT1
+Diosgenin,CASP3
+Diosgenin,TIMP1
+Diosgenin,IL6
+Diosgenin,IL1B
+Diosgenin,TLR2
+Diosgenin,CCL2
+Diosgenin,CCL3
+Diosgenin,CXCL12
+Diosgenin,MMP1
+Diosgenin,MMP9
+Diosgenin,ANGPT1
+Diosgenin,CSF2
+Diosgenin,PTGS2
+Diosgenin,STAT3
+Diosgenin,MAPK1
+Diosgenin,MAPK14
+Diosgenin,NFKB1
+Diosgenin,AKT1
+Diosgenin,CASP3
+Diosgenin,CXCL8
+Diosgenin,HIF1A
+Diosgenin,NFE2L2
+Diosgenin,NOS2
+Diosgenin,SOD1
+Diosgenin,TGFB1
+Diosgenin,TIMP1
+Diosgenin,ALOX5
+Diosgenin,IL6
+Diosgenin,IL1B
+Diosgenin,CXCL12
+Diosgenin,PTGS2
+Diosgenin,MAPK1
+Diosgenin,CASP3
+Diosgenin,CXCL8
+Diosgenin,NFE2L2
+Diosgenin,ALOX5
+Diosgenin,PTGS2
+Diosgenin,MAPK14
+Diosgenin,MMP9
+Diosgenin,PTGS2
+Diosgenin,NFKB1
+Diosgenin,AKT1
+Diosgenin,CASP3
+Diosgenin,ALOX5
+Diosgenin,MAPK14
+Diosgenin,PTGS2
+Diosgenin,MAPK1
+Diosgenin,CXCL8
+Diosgenin,IL1B
+Diosgenin,MMP9
+Diosgenin,MAPK1
+Diosgenin,AKT1
+Diosgenin,TLR4
+Diosgenin,MMP1
+Diosgenin,NOS2
+Diosgenin,PTGS2
+Diosgenin,MAPK14
+Diosgenin,HIF1A
+Diosgenin,IL6
+Diosgenin,IL1B
+Diosgenin,MMP9
+Diosgenin,PTGS2
+Diosgenin,MAPK1
+Diosgenin,AKT1
+Diosgenin,CASP3
+Diosgenin,CXCL8
+Diosgenin,HIF1A
+Diosgenin,NFE2L2
+Diosgenin,IL1B
+Diosgenin,CCL2
+Diosgenin,MMP1
+Diosgenin,MMP9
+Diosgenin,STAT3
+Diosgenin,AKT1
+Diosgenin,CASP3
+Diosgenin,CXCL8
+Diosgenin,HIF1A
+Diosgenin,NFE2L2
+Diosgenin,NOS2
+Diosgenin,TGFB1
+Diosgenin,ALOX5
+Diosgenin,PTGS2
+Diosgenin,NFKB1
+Diosgenin,IL1B
+Diosgenin,CCL2
+Diosgenin,MMP1
+Diosgenin,MMP9
+Diosgenin,STAT3
+Diosgenin,AKT1
+Diosgenin,CASP3
+Diosgenin,CXCL8
+Diosgenin,HIF1A
+Diosgenin,NFE2L2
+Diosgenin,NOS2
+Diosgenin,TGFB1
+Diosgenin,ALOX5
+Diosgenin,PTGS2
+Diosgenin,NFKB1
+Diosgenin,IL6
+Diosgenin,IL1B
+Diosgenin,IL11
+Diosgenin,CCL2
+Diosgenin,MMP1
+Diosgenin,MMP9
+Diosgenin,TNFRSF11A
+Diosgenin,PTGS2
+Diosgenin,STAT3
+Diosgenin,TYK2
+Diosgenin,MAPK1
+Diosgenin,MAPK14
+Diosgenin,NFKB1
+Diosgenin,CASP3
+Diosgenin,CXCL8
+Diosgenin,CXCL10
+Diosgenin,HIF1A
+Diosgenin,KEAP1
+Diosgenin,NFE2L2
+Diosgenin,NOS2
+Diosgenin,SOD1
+Diosgenin,TGFB1
+Diosgenin,TIMP1
+Diosgenin,IL6
+Diosgenin,IL1B
+Diosgenin,MMP9
+Diosgenin,PTGS2
+Diosgenin,MAPK1
+Diosgenin,AKT1
+Diosgenin,CASP3
+Diosgenin,CXCL8
+Diosgenin,HIF1A
+Diosgenin,NFE2L2
+Diosgenin,IL6
+Diosgenin,PTGS2
+Diosgenin,STAT3
+Diosgenin,NFKB1
+Diosgenin,AKT1
+Diosgenin,CASP3
+Diosgenin,NFE2L2
+Diosgenin,SOD1
+Diosgenin,TGFB1
+Diosgenin,ALOX5
+Diosgenin,CD86
+Diosgenin,MMP9
+Diosgenin,MAPK1
+Diosgenin,NFKB1
+Diosgenin,AKT1
+Diosgenin,CASP3
+Diosgenin,NFE2L2
+Diosgenin,SOD1
+Diosgenin,TGFB1
+Diosgenin,ALOX5
+Diosgenin,PTGS2
+Diosgenin,LTA4H
+Diosgenin,TYK2
+Diosgenin,MAPK14
+Diosgenin,ALOX5
+Diosgenin,PTGS2
+Diosgenin,LTA4H
+Diosgenin,TYK2
+Diosgenin,MAPK1
+Diosgenin,MAPK14
+Diosgenin,ALOX5
+Diosgenin,NOS2
+Diosgenin,ALOX5
+Diosgenin,PTGS2
+Diosgenin,MAPK14
+Diosgenin,AKT1
+Diosgenin,MMP1
+Diosgenin,MMP3
+Diosgenin,MMP9
+Diosgenin,ALOX5
+Diosgenin,PTGS2
+Diosgenin,CXCL8
+Diosgenin,ALOX5
+Diosgenin,MMP3
+Diosgenin,MMP9
+Diosgenin,PTGS2
+Diosgenin,ALOX5AP
+Diosgenin,STAT3
+Diosgenin,AKT1
+Diosgenin,NFE2L2
+Diosgenin,ALOX5
+Diosgenin,TYK2
+Diosgenin,CASP3
+Diosgenin,NOS2
+Diosgenin,ALOX5
+Diosgenin,PTGS2
+Diosgenin,HIF1A

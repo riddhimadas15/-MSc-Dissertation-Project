@@ -1,0 +1,26 @@
+sample 	treatment
+GSM2449608	normal_donors
+GSM2449609	normal_donors
+GSM2449610	normal_donors
+GSM2449611	normal_donors
+GSM2449612	normal_donors
+GSM2449613	normal_donors
+GSM2449614	normal_donors
+GSM2449615	normal_donors
+GSM2449616	normal_donors
+GSM2449617	normal_donors
+GSM2449618	normal_donors
+GSM2449619	normal_donors
+GSM2449638	rheumatoid_arthritis		
+GSM2449639	rheumatoid_arthritis	
+GSM2449640	rheumatoid_arthritis	
+GSM2449641	rheumatoid_arthritis	
+GSM2449642	rheumatoid_arthritis	
+GSM2449643	rheumatoid_arthritis	
+GSM2449644	rheumatoid_arthritis	
+GSM2449645	rheumatoid_arthritis	
+GSM2449646	rheumatoid_arthritis	
+GSM2449647	rheumatoid_arthritis	
+
+
+

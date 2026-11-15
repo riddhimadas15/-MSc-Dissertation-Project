@@ -1,0 +1,10 @@
+sample 	treatment
+GSM265436	normal_donors
+GSM265439	normal_donors
+GSM265445	normal_donors
+GSM265020	rheumatoid_arthritis
+GSM265036	rheumatoid_arthritis
+GSM265361	rheumatoid_arthritis
+GSM265363	rheumatoid_arthritis
+GSM265366	rheumatoid_arthritis
+
