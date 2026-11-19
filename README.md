@@ -3,7 +3,7 @@
 MSc thesis project (Biotechnology & Bioinformatics, Institute of Bioinformatics and Applied Biotechnology, Bengaluru; Bangalore University), May 2025.
 Supervisor: Prof. R. Srivatsan. Author: Riddhima Das.
 
-📄 Full write-up: [`docs/thesis_Network-Based_Analysis_of_Ayurvedic_Formulations_in_RA.pdf`](docs/thesis_Network-Based_Analysis_of_Ayurvedic_Formulations_in_RA.pdf) · Slides: [`docs/final_project_slides.pdf`](docs/final_project_slides.pdf)
+Full write-up: [`docs/thesis_Network-Based_Analysis_of_Ayurvedic_Formulations_in_RA.pdf`](docs/thesis_Network-Based_Analysis_of_Ayurvedic_Formulations_in_RA.pdf) · Slides: [`docs/final_project_slides.pdf`](docs/final_project_slides.pdf)
 
 ---
 
